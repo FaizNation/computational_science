@@ -6,7 +6,7 @@ figure;
 plot(x, y_gamma, 'LineWidth', 2, 'DisplayName', 'Fungsi Gamma');
 
 xlabel('x');
-ylabel('Gamma(x)');
+ylabel('Gamma(x)');gti 
 hold on;
 
 faktorial_x = 1:5;
